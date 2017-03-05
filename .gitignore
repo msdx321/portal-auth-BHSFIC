@@ -1,0 +1,5 @@
+# Compiled EXE
+*.exe
+
+# Compiled binary (For Linux and macOS)
+auth
