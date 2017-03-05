@@ -1,0 +1,2 @@
+auth.exe -lazy
+pause
